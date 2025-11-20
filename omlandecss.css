@@ -1,0 +1,132 @@
+body {
+    background-color: maroon;
+}
+.omlande {
+    background-color: green;
+    text-align: center;
+    border: 5px solid black;
+}
+.Denmark {
+  background-color: tomato;
+  color: black;
+  border: 6px solid black;
+  margin: 20px;
+  padding: 20px;
+  font-weight: bold;
+}
+.Tyskland {
+    background-color: darkgray;
+    color: black;
+    border: 6px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+.Frankrig {
+  background-color: darkblue;
+  color: black;
+  border: 6px solid black;
+  margin: 20px;
+  padding: 20px;
+  font-weight: bold;
+}
+.Poland {
+    background-color: tomato;
+    color: black;
+    border: 6px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+.uk {
+    background-color: darkorchid;
+    color: black;
+    border: 6px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+.italien {
+    background-color: lightgreen;
+    color: black;
+    border: 6px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+.schweiz {
+    background-color: red;
+    color: black;
+    border: 6px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+.sverige {
+    background-color: darkblue;
+    color: black;
+    border: 6px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+.estland {
+    background-color: darkcyan;
+    color: black;
+    border: 6px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+.island {
+    background-color: cyan;
+    color: black;
+    border: 6px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+.portugal {
+    background-color: green;
+    color: black;
+    border: 6px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+.belgien {
+    background-color: yellow;
+    color: black;
+    border: 6px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+.greece {
+    background-color: lightseagreen;
+    color: black;
+    border: 6px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+.austria {
+    background-color: white;
+    color: black;
+    border: 6px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+img {
+    border: 4px solid black;
+}
+div:hover {
+    transform: scale(1.03);
+    transform-origin: center;
+}
+div {
+    font-family: Roboto, sans-serif;
+    transition-duration: 0.5s;
+    transform: all;
+}
